@@ -8,6 +8,8 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size:2.5rem;
   color: #66BFBF;
+  width: 50%;
+  margin: 0 auto;
 }
 
 h3 {
@@ -32,13 +34,14 @@ a{
   margin-top: 100px;
   font-size: 5.625rem;
   font-family: 'Handlee', cursive;
+  line-height: 2;
   color: white;
   }
 .top-container p  {
   margin-top: 0px;
   font-weight: normal;
   font-size:2.5rem;
-  color: #f1f4df;
+  color: white;
   }
 
 #cloudleft {
@@ -64,10 +67,21 @@ right: 600px;
   padding: 20px;
 }
 .profile img{
-  margin-top: 20px;
+  float: left;
+  margin: 20px 20px;
   width: 300px;
   height: 300px;
+}
+.profile p {
+  font-size: 1.5rem;
+  line-height: 2;
+  text-align: left;
+  }
 
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  padding: 10px;
 }
 .skillsimg{
   width: 200px;
@@ -76,9 +90,10 @@ right: 600px;
   margin-bottom: 20px;
   }
 .bottom-images {
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   margin-left: 10px;
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 .bottom-container {
