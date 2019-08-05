@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  color: #66BFBF;
+  width: 50%;
+  margin: 0 auto;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  color: #11999E;
+}
+
+p {
+  font-size:2em;
+}
+
+a{
+  color: #11999E;
+}
+.top-container {
+  padding: 20px;
+  background-color: #a9c6de;
+
+}
+.top-container h1  {
+  margin-top: 100px;
+  font-size: 5.625rem;
+  font-family: 'Handlee', cursive;
+  line-height: 2;
+  color: white;
+  }
+.top-container p  {
+  margin-top: 0px;
+  font-weight: normal;
+  font-size:2.5rem;
+  color: white;
+  }
+
+#cloudleft {
+  position: absolute;
+  top: 249px;
+  left: 612px;
+
+}
+#cloudright {
+position: absolute;
+top: 50px;
+right: 600px;
+}
+
+#mountain {
+  width: 20%;
+}
+.middle-container {
+  background-color: whitesmoke;
+}
+
+.profile{
+  padding: 20px;
+}
+.profile img{
+  float: left;
+  margin: 20px 20px;
+  width: 300px;
+  height: 300px;
+}
+.profile p {
+  font-size: 1.5rem;
+  line-height: 2;
+  text-align: left;
+  }
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  padding: 10px;
+}
+.skillsimg{
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  }
+.bottom-images {
+  width: 80px;
+  height: 80px;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.bottom-container {
+    background-color: whitesmoke;
+    font-size: 0.6rem;
+}
